@@ -1,0 +1,15 @@
+netflix-data-analytics-project/
+│
+├── data/
+│   └── netflix_clean.xlsx
+│
+├── dashboard/
+│   └── netflix_dashboard.pbix
+│
+├── notebook/
+│   └── netflix_analysis.ipynb
+│
+├── images/
+│   └── dashboard_screenshot.png  ← (optional)
+│
+└── README.md  
