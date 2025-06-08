@@ -1,15 +1,13 @@
 netflix-data-analytics-project/
 │
 ├── data/
-│   └── netflix_clean.xlsx
+│   └── netflix_clean.xlsx("C:\Users\muskan chaudhary\Downloads\netflix_clean.xlsx")
 │
 ├── dashboard/
-│   └── netflix_dashboard.pbix
+│   └── NETFLIX_dashboard.pbix("C:\Users\muskan chaudhary\Downloads\Netflix Dataset Dashboard.pbix")
 │
 ├── notebook/
-│   └── netflix_analysis.ipynb
+│   └── netflIX_dataset.ipynb("C:\Users\muskan chaudhary\Downloads\netflix_dataset.ipynb")
 │
-├── images/
-│   └── dashboard_screenshot.png  ← (optional)
-│
-└── README.md  
+├── Data wrangling & visualization/
+  └── netflIX_dataset.ipynb("C:\Users\muskan chaudhary\Downloads\netflix_dataset.ipynb")
