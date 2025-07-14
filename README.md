@@ -1,6 +1,6 @@
 # Netflix_dataset
 Netflix Data Analytics Dashboard &amp; Insights:This project showcases a complete data analytics pipeline using Netflix’s content dataset, from cleaning and transformation to exploration and dashboard reporting. Built using Excel, Power Query in Power BI, and Python,the project highlights practical skills in data preparation, visualization, storytelling.
-# 🎬 Netflix Data Analytics Project
+# 🎬 Prodigy Info Tech Project on Netflix Dataset
 
 A complete end-to-end data analytics case study using Netflix's content dataset. 
 
